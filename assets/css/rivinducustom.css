@@ -1,0 +1,70 @@
+#pubtaskspacer {
+  padding-right: 3px;
+}
+
+.jumbotron {
+  padding: 8px 0;
+}
+
+.jumbotron p {
+  margin-bottom: 1px;
+}
+
+.menu {text-align:justify;}
+.menu:after { content:' '; display:inline-block; width: 100%; height: 0 }
+.menu > span {display:inline-block} 
+
+.sorting
+{
+cursor: pointer;
+}
+
+.externalLink
+{
+	text-decoration: none; 
+    font-style: normal;
+    color: #333;
+}
+
+/* additional label types */
+/*
+[class*='-dark'] {
+	background-color:#02243C;
+    color:#f0f0f0;
+}
+[class*='-light'] {
+	background-color:#f9f9f9;
+    color:#999;
+}
+[class*='-blue'] {
+	background-color:#5195ce;
+    color:#fff;
+}
+[class*='-apple'] {
+	background-color:#005DB3;
+    color:#f8f8f8;
+}
+*/
+[class*='-gray'] {
+	background-color:#e6e6e6;
+    color:#666;
+}
+[class*='-darkgreen'] {
+	background-color:#428642;
+    color:#fff;
+}
+
+[class*='-green'] {
+	background-color:#5BC236;
+    color:#fff;
+}
+
+[class*='-magenta'] {
+	background-color:#ce8a8a;
+    color:#fff;
+}
+
+[class*='-pink'] {
+	background-color:#d6a0aa;
+    color:#fff;
+}
